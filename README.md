@@ -15,12 +15,12 @@ Find the music that other people post
 
 View daily updates and notifications.
 
-### Wireframes & Wireflows
+## Wireframes & Wireflows
 Wireframes from this prototype are available: here.
 
 All wireframes and wireflows can be found here.
 
-### Summary
+## Summary
 Creating the low-fidelity prototype helped me clearly see the vision I had for the app I am passionate about. It helped me see things that would be a struggle for users, such as the distance between buttons, and whether the process of doing a task flows smoothly. 
 
 Through this process, I erased a lot of what I originally thought would work out. It made me excited to see what it would look like if I digitized it into a high-fidelity prototype. Originally,I thought I wouldn't have enough details to help users navigate efficiently but realized I overthought it. 
