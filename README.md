@@ -1,4 +1,5 @@
-# DH150-Assignment06
+# DH150 - Assignment06
+## Low-Fidelity Prototype - Michelle Xu 
 
 ## Description 
 ### Purpose:
