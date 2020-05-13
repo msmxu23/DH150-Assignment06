@@ -1,14 +1,18 @@
-# DH150 - Assignment06
+## DH150 - Assignment06
 ## Low-Fidelity Prototype - Michelle Xu 
 
 ## Description 
-### Purpose:
+My project is based on a new music app, called Audius. I want to add features that emphasize the overall social aspect and sense of community of the app. Music shouldn't just be a place to listen to music but a way to connect with others and express ourselves. Using Audius won't only support artists but help listeners and users feel more motivated to use the app. If users feel as if they are able to share their music and their selves creatively, and feel accepted and included, then they will come back and use the app more often to be more involved. 
+
+Through this low-fidelity prototype process, I was able to see whether the features I designed would benefit these personas.I can see what flows well and what doesn't. The wireflows will show me how users would navigate the features. If I come across problems, I can come up with better solutions and map a more efficient way.
+
+## Purpose:
 The purpose of creating and testing this low-fidelity prototype is to see whether or not the features that I have created are helpful and  easily usable by the target user demographic.
 
-### User Personas:
+## User Personas:
 The user personas that I have included is characterized by the following have identified can be characterized by the following: people who enjoy sharing music, people who enjoy talking about music, and people who are avid music concerts, and festivals goers. 
 
-### Tasks
+## Tasks
 Discover people to talk about music with. 
 
 Find the music that other people post
