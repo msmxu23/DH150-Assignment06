@@ -7,5 +7,7 @@ User Personas: The user personas that I have included is characterized by the f
 
 ## Tasks
 Discover people to talk about music with. 
+
 Find the music that other people post
+
 View daily updates and notifications.
