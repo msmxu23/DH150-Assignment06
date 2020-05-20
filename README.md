@@ -12,10 +12,10 @@ The purpose of creating and testing this low-fidelity prototype is to see whethe
 ## User Personas:
 The user personas that I have included is characterized by the following have identified can be characterized by the following: people who enjoy sharing music, people who enjoy talking about music, and people who are avid music concerts, and festivals goers. 
 
-## Tasks
-- Discover people to talk about music with. 
-- Find the music that other people post
-- View daily updates and notifications.
+## Tasks/Features
+Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
+Connect: suggests other users as potential friends, will show you mutual friends, mutual taste in music, etc
+The Latest: notifies you on the latest events from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs
 
 ## Wireframes & Wireflows
 Wireframes from this prototype are available: here.
