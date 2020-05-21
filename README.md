@@ -6,19 +6,18 @@ My project is a music events app that allows users to make new friends, talk abo
 
 Through the low-fidelity prototype process, I can see whether the features I designed would benefit certain user personas. I will be able to see what flows well and what doesn't. The wireflows will show me how users would navigate the features and whether it is efficient for them to do certain tasks. If something looks difficult or out of the way, I can come up with better solutions, iterate the design process, and map a more efficient way to navigate through the app. 
 
-bold**Purpose: regular**The purpose of creating and testing this low-fidelity prototype is to see whether or not the features that I have created are helpful and  easily usable by the target user demographic.
+**Purpose:** The purpose of creating and testing this low-fidelity prototype is to see whether or not the features that I have created are helpful and  easily usable by the target user demographic.
 
-## User Personas:
+**User Personas**
 The user personas that I have included is characterized by the following have identified can be characterized by the following: people who enjoy sharing music, people who enjoy talking about music, and people who are avid music concerts, and festivals goers. 
 
-## Tasks/Features
-Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
-Connect: suggests other users as potential friends, will show you mutual friends, mutual taste in music, etc
-The Latest: notifies you on the latest events from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs
+**Tasks/Features**
+1. Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
+2. Connect: suggests other users as potential friends, will show you mutual friends, mutual taste in music, etc
+3. The Latest: notifies you on the latest events from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs
 
 ## Wireframes & Wireflows
 Wireframes from this prototype are available: here.
-
 All wireframes and wireflows can be found here.
 
 ## Summary
