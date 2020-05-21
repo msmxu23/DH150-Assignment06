@@ -6,8 +6,7 @@ My project is a music events app that allows users to make new friends, talk abo
 
 Through the low-fidelity prototype process, I can see whether the features I designed would benefit certain user personas. I will be able to see what flows well and what doesn't. The wireflows will show me how users would navigate the features and whether it is efficient for them to do certain tasks. If something looks difficult or out of the way, I can come up with better solutions, iterate the design process, and map a more efficient way to navigate through the app. 
 
-## Purpose:
-The purpose of creating and testing this low-fidelity prototype is to see whether or not the features that I have created are helpful and  easily usable by the target user demographic.
+bold**Purpose: regular**The purpose of creating and testing this low-fidelity prototype is to see whether or not the features that I have created are helpful and  easily usable by the target user demographic.
 
 ## User Personas:
 The user personas that I have included is characterized by the following have identified can be characterized by the following: people who enjoy sharing music, people who enjoy talking about music, and people who are avid music concerts, and festivals goers. 
