@@ -17,8 +17,7 @@ The user personas that I have included is characterized by the following have id
 3. The Latest: notifies you on the latest events from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs
 
 ## Wireframes & Wireflows
-Wireframes from this prototype are available: here.
-All wireframes and wireflows can be found here.
+Wireframes and wireflows are available [here](https://drive.google.com/file/d/1Slxt_uBhmbMFkXd6uiGF1P6O4MIQNSD3/view?usp=sharing)
 
 ## Reflection & Summary
 Creating the low-fidelity prototype helped me clearly see the vision I had for the app I am passionate about. It helped me see things that would be a struggle for users, such as the distance between buttons, and whether the process of doing a task flows smoothly. 
